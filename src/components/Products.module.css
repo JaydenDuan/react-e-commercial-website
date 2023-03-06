@@ -1,0 +1,14 @@
+.product_img{
+
+}
+
+.search_icon{
+    opacity: 0;
+}
+
+.container:hover img{
+    opacity: 0.3;
+}
+.container:hover div{
+    opacity: 1;
+}
